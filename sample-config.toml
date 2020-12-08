@@ -3,4 +3,4 @@ freq=10                   # unit: second, 60 for 1min
 debug = true             # enable / disable verbase log print
 [user]
 username="admin"      #  username for login
-password="AbcdEfgh"   # password for login and encrypts and decrypts your apiseckey to store in database
+password="123456"   # password for login and encrypts and decrypts your apiseckey to store in database
