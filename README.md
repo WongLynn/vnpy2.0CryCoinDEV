@@ -12,6 +12,7 @@ FCoin 跑路时，提币需邮件回复账户里资金数量，有多少人能�
 ### 编译
 > 安装`go`
 * `git clone https://github.com/goex-top/cryptoassets.git`
+* `git clone https://github.com/WongLynn/vnpy2.0CryCoinDEV.git`
 * `git submodule update --init --recursive`
 * `go build`
 
